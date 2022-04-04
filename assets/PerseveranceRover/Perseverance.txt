@@ -1,0 +1,44 @@
+INTRODUCTION - https://mars.nasa.gov/mars2020/mission/overview/
+
+The Mars 2020 Perseverance Rover will search for signs of ancient microbial life, which will advance NASA's quest to explore the past habitability of Mars. The rover has a drill to collect core samples of Martian rock and soil, then store them in sealed tubes for pickup by a future mission that would ferry them back to Earth for detailed analysis. Perseverance will also test technologies to help pave the way for future human exploration of Mars.
+Strapped to the rover's belly for the journey to Mars is a technology demonstration — the Mars Helicopter, Ingenuity, may achieve a "Wright Brothers moment “ by testing the first powered flight on the Red Planet.
+
+There are several ways that the mission helps pave the way for future human expeditions to Mars and demonstrates technologies that may be used in those endeavors. These include testing a method for producing oxygen from the Martian atmosphere, identifying other resources (such as subsurface water), improving landing techniques, and characterizing weather, dust, and other potential environmental conditions that could affect future astronauts living and working on Mars.
+
+
+ABOUT THE ROVER
+
+The Mars 2020 rover, Perseverance, is based on the Mars Science Laboratory's Curiosity rover configuration. It is car-sized, about 10 feet long (not including the arm), 9 feet wide, and 7 feet tall (about 3 meters long, 2.7 meters wide, and 2.2 meters tall). But at 2,260 pounds (1,025 kilograms), it weighs less than a compact car. In some sense, the rover parts are similar to what any living creature would need to keep it "alive" and able to explore.
+
+
+GOALS
+
+Goal 1: Determine whether life ever existed on Mars
+
+The mission of the Mars 2020 Perseverance rover focuses on surface-based studies of the Martian environment, seeking preserved signs of biosignatures in rock samples that formed in ancient Martian environments with conditions that might have been favorable to microbial life.
+
+It is the first rover mission designed to seek signs of past microbial life. Earlier rovers first focused on and confirmed that Mars once had habitable conditions.
+
+
+Goal 2: Characterize the Climate of Mars
+
+Past Martian climate conditions are a focus of the Perseverance rover mission. The rover's instruments are looking for evidence of ancient habitable environments where microbial life could have existed in the past.
+
+
+Goal 3: Characterize the Geology of Mars
+
+The Perseverance rover is designed to study the rock record to reveal more about the geologic processes that created and modified the Martian crust and surface through time. Each layer of rock on the Martian surface contains a record of the environment in which it was formed. The rover seeks evidence of rocks that formed in water and that preserve evidence of organics, the chemical building blocks of life.
+
+
+Goal 4: Prepare for Human Exploration
+
+The Perseverance rover is demonstrating key technologies for using natural resources in the Martian environment for life support and fuel. It is also monitoring environmental conditions so mission planners understand better how to protect future human explorers.
+
+This science goal relates to national space policy for sending humans to Mars in the 2030s. Similar to the history of the exploration of Earth's moon, robotic missions to Mars provide a crucial understanding of the environment and test innovative technologies for future human exploration.
+
+Investments in Mars 2020 technologies include contributions from NASA's Human Exploration and Operations (HEO) Mission Directorate and Space Technology Program (STP) as part of NASA's long-term efforts to develop future capabilities for human space exploration.
+
+
+FACT SHEET
+
+https://mars.nasa.gov/files/mars2020/Mars2020_Fact_Sheet.pdf

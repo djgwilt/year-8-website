@@ -1,0 +1,74 @@
+body {
+	/* Good opportunity to change the font if desired: https://www.w3schools.com/css/css_font.asp */
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 13px;
+	color: #333;
+	background-color: LightGray;
+}
+
+#wrapper {
+	/* This line is needed to align the whole page in the centre */
+	margin: 0 auto;
+	width: 700px;
+	/* Change to whatever width you like - see: https://www.w3schools.com/cssref/pr_dim_width.asp */
+}
+
+#banner {
+	/* Nice opportunity to add a background image here: https://www.w3schools.com/cssref/pr_background-image.asp */
+	/* Or some nice text: https://css-tricks.com/3-styles-for-big-headers/ */
+	float: left;
+	height: 120px;
+	width: 700px;
+	background: #FF6633;
+  background-image: url("assets/someAwesomeBannerImage.PNG");
+}
+
+#navigation {
+	/* This is the background box for the navigation bar */
+	float: left;
+	width: 700px;
+	background: red;
+}
+
+#content {
+	/* This is for the main content box */
+	padding: 10px;
+	float: left;
+	background: #42ECFF;
+	width: 680px;
+}
+
+img {
+	/* This makes it so that pictures will be on the right hand side of the page */
+	float: right;
+	padding: 5px;
+}
+
+#navigation a {
+	/* This one makes the navigation bar buttons look like blocks */
+	float: left;
+	padding: 5px;
+	height: 50px;
+	margin: auto;
+	text-decoration: none;
+}
+
+
+/* and these 2 change their colours - lots of fun with CSS buttons here: https://www.w3schools.com/css/css3_buttons.asp */
+
+#navigation a:link, #navigation a:visited {
+	background-color: red;
+	color: LightGray;
+}
+
+#navigation a:hover, #navigation a:active {
+	background-color: LightGray;
+	color: red;
+}
+
+table, th, td {
+	/* This formats all tables */
+	border: 1px solid black;
+	text-align: center;
+	margin: 20px;
+}
